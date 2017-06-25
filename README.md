@@ -1,3 +1,3 @@
 # hello-world
 This is for testing purposes only
-so funny
+I'm just a simple being.
